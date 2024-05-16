@@ -56,15 +56,17 @@ Now if you have the middleware and the application up you will see in the consol
 
 ### Stopping the virtual machine
 When you have finished working, you can stop the virtual machine:
-    ```bash
-    vagrant halt
-    ```
+
+```bash
+vagrant halt
+```
 
 ### Deleting the virtual machine
 If you no longer need the virtual machine, you can delete it:
-    ```bash
-    vagrant destroy
-    ```
+
+```bash
+vagrant destroy
+```
 
 ## Vagrantfile
 
