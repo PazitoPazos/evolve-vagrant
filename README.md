@@ -93,6 +93,7 @@ Vagrant.configure("2") do |config|
     vb.memory = "4096"
   end
 end
+```
 
 ## Contributions
 Contributions are welcome! If you encounter any problems or have suggestions to improve this project, feel free to open an issue or send a pull request.
