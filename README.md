@@ -4,6 +4,11 @@
 
 This repository is part of the Evolve project. It is oriented to deploy a Minecraft server with the Evolve API to which the middleware will be connected to act as an intermediary between the web application and the API.
 
+## Related repos
+ - [Evolve](https://github.com/PazitoPazos/evolve)
+ - [Evolve Middleware](https://github.com/PazitoPazos/evolve-middleware)
+ - [Evolve API](https://github.com/PazitoPazos/evolve-api)
+
 ## Requirements
 
 To run this project, you will need to have the following installed on your system:
@@ -11,7 +16,7 @@ To run this project, you will need to have the following installed on your syste
 - Vagrant
 - VirtualBox
 
-## Installation
+## Setup
 
 1. Clone this repository on your local machine:
 
