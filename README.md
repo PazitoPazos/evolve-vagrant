@@ -51,13 +51,7 @@ Once you are connected to the virtual machine, you have to run the API:
     cd evolve-api
     ```
 
-2. Install dependencies:
-
-    ```bash
-    npm install
-    ```
-
-3. Start the API with `npm`:
+2. Start the API with `npm`:
 
     ```bash
     npm run start
